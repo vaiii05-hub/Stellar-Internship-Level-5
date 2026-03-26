@@ -8,7 +8,7 @@ birthday, farewell, or special occasion. Built with Soroban smart contracts on S
 ## 🔗 Links
 - **Live Demo**: https://giftdrop-five.vercel.app
 - **Demo Video**: https://drive.google.com/file/d/1C5Jg7teBDdf74l01LYgONaiqICeRPkbM/view?usp=drive_link
-- **User Feedback**: https://docs.google.com/forms/d/1bAluxRpwHa0V83twN_V0JHLjGgYTgAtQEcsk4uCYMXU/edit#responses
+- **User Feedback**: https://docs.google.com/forms/d/1bAluxRpwHa0V83twN_V0JHLjGgYTgAtQEcsk4uCYMXU/viewform
 - **Smart Contract**: `CCKWQPTEXUAV7RK3WKD2T6YS4CLC4QE2KWI2MO4NHVAN4ABFJHA3YGVJ`
 - **Contract Explorer**: [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CCKWQPTEXUAV7RK3WKD2T6YS4CLC4QE2KWI2MO4NHVAN4ABFJHA3YGVJ)
 
@@ -142,15 +142,17 @@ Feedback collected from 6 testnet users via Google Form.
 
 👉 [View Feedback Responses](https://docs.google.com/forms/d/1bAluxRpwHa0V83twN_V0JHLjGgYTgAtQEcsk4uCYMXU/viewform)
 
+📊 [Download Feedback Excel Sheet](./feedback.xlsx)
+
 ## 🔄 User Feedback Implementations
 
 | # | User Feedback | Improvement Made | Commit |
 |---|--------------|-----------------|--------|
-| 1 | "My old drops were disappearing from the dashboard" | Fixed expired drops disappearing — added null safety so expired drops show with "Expired" status badge | [commit](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/e7cb81a) |
-| 2 | "I had no way to verify if my contribution actually went through on blockchain" | Added transaction confirmation — contributors now see Stellar Explorer link after contributing | [commit](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/1adf0a3) |
-| 3 | "I didn't know what would happen if the target amount wasn't reached" | Added clear auto-refund message on drop detail page explaining contributors get refunded if target not met | [commit](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/4ddcc16) |
-| 4 | "I didn't know how much was raised compared to the target" | Added progress bar showing percentage raised on each drop card | [commit](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/1790741) |
-| 5 | "I wanted to see my contributions separately from drops I created" | Added two separate tabs — My Drops and My Contributions on dashboard | [commit](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/5e61eed) |
+| 1 | "My old drops were disappearing from the dashboard" | Fixed expired drops disappearing — added null safety so expired drops show with Expired status badge | [c9dd5d6](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/c9dd5d6) |
+| 2 | "I had no way to verify if my contribution actually went through on blockchain" | Added transaction confirmation — contributors now see Stellar Explorer link after contributing | [9728038](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/9728038) |
+| 3 | "I didn't know what would happen if the target amount wasn't reached" | Added clear auto-refund message on drop detail page explaining contributors get refunded if target not met | [80d1e49](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/80d1e49) |
+| 4 | "I didn't know how much was raised compared to the target" | Added progress bar showing percentage raised on each drop card | [99a88a9](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/99a88a9) |
+| 5 | "I wanted to see my contributions separately from drops I created" | Added two separate tabs — My Drops and My Contributions on dashboard | [3bfd2f1](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/3bfd2f1) |
 
 ## 🔍 Verify on Stellar Explorer
 
