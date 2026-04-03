@@ -220,7 +220,7 @@ export default function DropPage() {
                 Refund available after deadline
               </p>
               <p className="text-gray-500 text-xs">
-                Refund will be available on{" "}
+                If the target is not reached, all contributors will be automatically refunded on{" "}
                 {new Date(Number(gift.deadline) * 1000).toLocaleDateString()}{" "}
                 if the goal is not reached.
               </p>
