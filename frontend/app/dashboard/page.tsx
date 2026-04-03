@@ -151,7 +151,7 @@ setMyContributions(contributions);
                           (gift.is_released ? "bg-green-500/20 text-green-400"
                             : isExpired ? "bg-red-500/20 text-red-400"
                             : "bg-yellow-500/20 text-yellow-400")}>
-                          {gift.is_released ? "Released" : isExpired ? "Expired" : "Active"}
+                          {gift.is_released ? "✓ Released" : isExpired ? "⚠ Expired" : "● Active"}
                         </span>
                       </div>
                       <h3 className="text-white font-semibold text-lg mb-1">
