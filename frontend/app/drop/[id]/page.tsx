@@ -199,7 +199,7 @@ export default function DropPage() {
                 Funds locked successfully!
               </p>
               <p className="text-gray-400 text-sm mb-2">
-                Your contribution is locked on-chain.
+                Your contribution is locked on-chain and verifiable on Stellar Explorer.
               </p>
               {txHash && (
                 
