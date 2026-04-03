@@ -107,7 +107,7 @@ setMyContributions(contributions);
                 ? "bg-gradient-to-r from-pink-500 to-orange-500 text-white"
                 : "text-gray-400 hover:text-white")}
           >
-            My Drops ({myDrops.length})
+            🎁 My Drops ({myDrops.length})
           </button>
           <button
             onClick={() => setActiveTab("contributions")}
@@ -116,7 +116,7 @@ setMyContributions(contributions);
                 ? "bg-gradient-to-r from-pink-500 to-orange-500 text-white"
                 : "text-gray-400 hover:text-white")}
           >
-            My Contributions ({myContributions.length})
+            💝 My Contributions ({myContributions.length})
           </button>
         </div>
 
