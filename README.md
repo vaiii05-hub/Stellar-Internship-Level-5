@@ -148,11 +148,11 @@ Feedback collected from 6 testnet users via Google Form.
 
 | # | User Feedback | Improvement Made | Commit |
 |---|--------------|-----------------|--------|
-| 1 | "My old drops were disappearing from the dashboard" | Fixed expired drops disappearing — added null safety so expired drops show with Expired status badge | [c9dd5d6](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/c9dd5d6) |
-| 2 | "I had no way to verify if my contribution actually went through on blockchain" | Added transaction confirmation — contributors now see Stellar Explorer link after contributing | [9728038](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/9728038) |
-| 3 | "I didn't know what would happen if the target amount wasn't reached" | Added clear auto-refund message on drop detail page explaining contributors get refunded if target not met | [80d1e49](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/80d1e49) |
-| 4 | "I didn't know how much was raised compared to the target" | Added progress bar showing percentage raised on each drop card | [99a88a9](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/99a88a9) |
-| 5 | "I wanted to see my contributions separately from drops I created" | Added two separate tabs — My Drops and My Contributions on dashboard | [3bfd2f1](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/3bfd2f1) |
+| 1 | "My old drops were disappearing from the dashboard" | Fixed expired drops disappearing — added null safety so expired drops show with Expired status badge | [7f2fed3](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/c9dd5d6) |
+| 2 | "I had no way to verify if my contribution actually went through on blockchain" | Added transaction confirmation — contributors now see Stellar Explorer link after contributing | [6cb7e35](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/9728038) |
+| 3 | "I didn't know what would happen if the target amount wasn't reached" | Added clear auto-refund message on drop detail page explaining contributors get refunded if target not met | [eb70c24](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/80d1e49) |
+| 4 | "I didn't know how much was raised compared to the target" | Added progress bar showing percentage raised on each drop card | [245e6f5](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/99a88a9) |
+| 5 | "I wanted to see my contributions separately from drops I created" | Added two separate tabs — My Drops and My Contributions on dashboard | [3a186fe](https://github.com/vaiii05-hub/Stellar-Internship-Level-5/commit/3bfd2f1) |
 
 ## 🔍 Verify on Stellar Explorer
 
